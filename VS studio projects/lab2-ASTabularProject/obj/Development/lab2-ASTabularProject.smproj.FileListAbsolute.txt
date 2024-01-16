@@ -1,0 +1,8 @@
+C:\Users\Irene\source\repos\lab2-ASTabularProject\bin\Model.asdatabase
+C:\Users\Irene\source\repos\lab2-ASTabularProject\bin\Model.deploymenttargets
+C:\Users\Irene\source\repos\lab2-ASTabularProject\bin\Model.deploymentoptions
+C:\Users\Irene\source\repos\lab2-ASTabularProject\obj\Development\lab2-ASTabularProject.smproj.AssemblyReference.cache
+C:\Users\Irene\source\repos\lab2-ASTabularProject\obj\Development\lab2-ASTabularProject.smproj.CoreCompileInputs.cache
+C:\Users\Irene\source\repos\lab2-ASTabularProject\obj\Development\Model.asdatabase
+C:\Users\Irene\source\repos\lab2-ASTabularProject\obj\Development\Model.deploymentoptions
+C:\Users\Irene\source\repos\lab2-ASTabularProject\obj\Development\Model.deploymenttargets
